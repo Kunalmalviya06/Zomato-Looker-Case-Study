@@ -2,11 +2,6 @@
 
 # Zomato Case Study: Analyzing Customer Retention and Operational Efficiency
 
-## Background Story
-You've recently joined Zomato's analytics team. The company has been facing challenges including declining customer satisfaction, fluctuating delivery times, and inconsistent sales performance across regions. There has been a noticeable drop in repeat customers and an increase in order cancellations. The management team is looking for answers to reverse these trends.
-
-Your task as a junior data analyst is to dive deep into the data, identify key metrics that can help improve the customer experience, and uncover operational inefficiencies that can be addressed to drive Zomato’s growth.
-
 ## Problem Selection
 Zomato has seen a decline in customer engagement and an increase in order cancellations. Key issues include:
 - **Why are customers leaving?**
